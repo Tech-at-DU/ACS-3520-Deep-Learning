@@ -11,7 +11,7 @@
 
 - QL 1.1 Quantitative Reasoning
 - DS 1.1 Data Analysis & Visualization
-- DS 2.1 Machine Learning
+- ACS 3510 Machine Learning
 
 # What is Back Propagation?
 

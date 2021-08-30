@@ -3,7 +3,7 @@
 ## Learning Objectives (Competencies)
 By the end of this lesson, students will be able to:
 - What are different Deep Learning Platforms in Python
-- Why we use Keras in DS 2.2
+- Why we use Keras in ACS 3520
 - What is functional and what is sequential API for Keras
 - Apply NN with Keras on iris data
 
@@ -17,7 +17,7 @@ By the end of this lesson, students will be able to:
 6- CNTK
 7- MXNET
 
-## Why we use Keras in DS 2.2 ?
+## Why we use Keras in ACS 3520?
 
 - A focus on user experience, easy to build and train a deep learning model
 - Easy to learn and easy to use

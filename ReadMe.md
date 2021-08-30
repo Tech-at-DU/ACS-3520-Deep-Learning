@@ -1,4 +1,4 @@
-# DS 2.2 Deep Learning
+# ACS 3520 Deep Learning
 
 ## Course Description
 
@@ -10,7 +10,7 @@ Deep learning has shaped our world. Deep learning is the science of getting comp
 
 ## Prerequisites:  
 
-[DS 2.1](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning)
+[ACS 3510](https://github.com/Tech-at-DU/ACS-3510-Machine-Learning)
 
 ## Course Specifics
 
